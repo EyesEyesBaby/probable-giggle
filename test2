@@ -1,9 +1,9 @@
 {
-  "name": "Lawtime",
+  "name": "Orchid Love",
   "description": "Theme made with love",
   "authors": [
     {
-      "name": "Cadaver",
+      "name": "Vodka",
       "id": "1068030255455015013"
     }
   ],
@@ -12,16 +12,16 @@
     "#eb6f9250"
     ],
     "BACKGROUND_ACCENT": [
-    "#74646d"
+    "#EB0000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#eb6f9250"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-    "#091822"
+    "#00FF0A"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-    "#322833"
+    "#DD007C"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
     "#26233a"
@@ -39,16 +39,16 @@
     "#403d52"
     ],
     "BACKGROUND_PRIMARY": [
-    "#091822"
+    "#00FF0A"
     ],
     "BACKGROUND_SECONDARY": [
-    "#191724"
+    "#DD007C"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#412e52"
+    "#C700FF"
     ],
     "BACKGROUND_TERTIARY": [
-    "#291c35"
+    "#4EFF00"
     ],
     "BG_BASE_PRIMARY": [
     "#31213e"
@@ -81,10 +81,10 @@
     "#908caa"
     ],
     "HEADER_PRIMARY": [
-    "#f2d0cf"
+    "#091822"
     ],
     "HEADER_SECONDARY": [
-    "#f2d0cf"
+    "#091822"
     ],
     "INTERACTIVE_ACTIVE": [
     "#e0def4"
